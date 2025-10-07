@@ -11,10 +11,11 @@ public class ChangeCase {
 				name1 = Character.toUpperCase(name1);
 				System.out.print(name1);
 				//cHaNgEmE
-
+//need to work on how to print it
 			}
 		}
 
 	}
 
 }
+
